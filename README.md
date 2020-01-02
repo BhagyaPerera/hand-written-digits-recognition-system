@@ -1,5 +1,5 @@
 # hand written digits recognition system
 
 
-This  is an web application which is  developed to recognize the hand written digits. "Support vector machine" algorithm is used to build this project
-A toy dataset in scikit learn is used as a data set of this project
+This  is an web application which is  developed to recognize the hand written digits. "Support vector machine" algorithm is used to build this project.
+A toy dataset from scikit learn is used as a data set of this project
